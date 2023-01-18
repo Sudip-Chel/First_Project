@@ -78,6 +78,9 @@
     padding-top:53vh;
     padding-left: 10px;
 }
+.right-partner-container input , .right-partner-container textarea{
+  height: 5vh;
+}
 .bottom-container{
     display: flex;
   }
