@@ -52,7 +52,7 @@
   justify-content: space-around;
 }
 .right-partner-container form{
-    padding-top: 13vh;
+    padding-top: 17vh;
     display: flex;
     flex-direction: column;
     width: 57vw;
@@ -189,4 +189,8 @@
     width: 60px;
     padding-bottom: 2vh;
 
+  }
+  .loginButton a,.Rasoi a{
+    text-decoration: none;
+    color: black;
   }

@@ -31,6 +31,9 @@ header
     align-items: center;
     transition: 1.5s;
     margin-right: 2vw;
+    position: fixed;
+    z-index: 1;
+    background-color: whitesmoke;
     
 
 
@@ -509,7 +512,7 @@ position: relative;
    .button-img{
     display: flex;
     gap: 2px;
-    align-items: center;
+    align-items: center ;
    }
   
   .download-app{
