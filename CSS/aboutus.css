@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+.about-us{
+    height: 100vh;
+    width: 100%;
+    
+}
+.about{
+    position: relative;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: linear-gradient(to top, rgb(252, 250, 250), rgb(241, 157, 39)) ;
+}
+.about img{
+    
+    height: 95%;
+    position: absolute;
+    width: 36%;
+    object-fit: contain;
+    box-shadow: 15px 16px 23px 5px rgba(87,82,82,0.75);
+-webkit-box-shadow: 15px 16px 23px 5px rgba(87,82,82,0.75);
+-moz-box-shadow: 15px 16px 23px 5px rgba(87,82,82,0.75);
+
+
+}
