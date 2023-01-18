@@ -509,6 +509,7 @@ position: relative;
    .button-img{
     display: flex;
     gap: 2px;
+    align-items: center;
    }
   
   .download-app{
